@@ -5,6 +5,8 @@
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamTheHelpDesk)](https://camdan.me)
 
+[![HTB Stats](http://www.hackthebox.eu/badge/image/416145)](https://www.hackthebox.eu/home/users/profile/416145)
+
 ## About Me
 
 - 🔭 I’m currently working on [AIMod](https://github.com/CamTheHelpDesk/aimod). AIMod is a Discord automod bot powered by AI.
