@@ -38,15 +38,18 @@
 ## My Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamTheHelpDesk&langs_count=3" alt="CamTheHelpDesk's languages" />  <img src="https://github-readme-stats.vercel.app/api?username=CamTheHelpDesk&theme=light&show_icons=true&include_all_commits=true&count_private=true" alt="CamTheHelpDesk's github stats" /><br /><img src="https://metrics.lecoq.io/CamTheHelpDesk" alt="CamTheHelpDesk's github stats" /></p></p>
   
-### Recent Contributions
+## Recent Contributions
 ```
 <!--GITHUB_ACTIVITY:{"rows": 10, "raw": true, "exclude": ["PushEvent"]}-->
 ```
 
-### Recent Repos
+## Recent Repos
 ```
 <!--GITHUB_REPOS:{"rows": 10, "raw": true, "sort": "pushed"}-->
 ```
+
+## Welcome To The Internet!
+<img src='https://random-memer.herokuapp.com/' alt="Please refresh the page is the image doesn't show up.">
 
 ## About Me
 - 🔭 I’m currently working on [Xerex](https://github.com/XerexDiscordBot/Xerex). Xerex is a Discord automod bot powered by AI.
