@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://cam.is-ne.at/CGgpeF.png" align="center" style="width: 100%" />
+<img src="https://cam.is-ne.at/CGgpeF.png" align="center" style="width: 100%" /><br /><br />
+<img src="https://github-profile-trophy.vercel.app/?username=CamTheHelpDesk" alt="CamTheHelpDesk's Trophies" />
 </div>
 <br/>
 <h2>My Skill Set</h2>
@@ -35,10 +36,11 @@
 </div></td></tr></table>
 
 ## My Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamTheHelpDesk&langs_count=3" alt="CamTheHelpDesk's languages" />  <img src="https://github-readme-stats.vercel.app/api?username=CamTheHelpDesk&theme=light&show_icons=true&include_all_commits=true&count_private=true" alt="CamTheHelpDesk's github stats" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamTheHelpDesk&langs_count=3" alt="CamTheHelpDesk's languages" />  <img src="https://github-readme-stats.vercel.app/api?username=CamTheHelpDesk&theme=light&show_icons=true&include_all_commits=true&count_private=true" alt="CamTheHelpDesk's github stats" /><br /><img src="https://metrics.lecoq.io/CamTheHelpDesk" alt="CamTheHelpDesk's github stats" /></p></p>
   
 ### Recent Contributions
 ```
+⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
@@ -55,7 +57,6 @@
 ⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
@@ -82,4 +83,4 @@
 ---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CamTheHelpDesk&&style=flat-square" /><br />
-Last refresh: <b>Sunday, October 18th 2020, 6:42:07 pm UTC</b>.</p>
+Last refresh: <b>Sunday, October 18th 2020, 6:45:18 pm UTC</b>.</p>
