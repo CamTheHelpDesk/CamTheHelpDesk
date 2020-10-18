@@ -39,7 +39,7 @@
   
 ### Recent Contributions
 ```
-<!--GITHUB_ACTIVITY:{"rows": 20, "raw": true, "exclude": ["IssueCommentEvent"]}-->
+<!--GITHUB_ACTIVITY:{"rows": 20, "raw": true}-->
 ```
 
 ### Recent Repos
