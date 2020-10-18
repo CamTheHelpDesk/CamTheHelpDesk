@@ -2,8 +2,6 @@ name: Update Readme
 
 on:
   push:
-    paths:
-    - 'TEMPLATE.md'
   schedule:
     - cron: 0 */12 * * *
 
@@ -11,16 +9,22 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+      - name: Checkout sources
+        uses: actions/checkout@master
         with:
           persist-credentials: false
           fetch-depth: 0
-      - name: Create README.md
+
+      - name: Generate README.md
         uses: actions-js/profile-readme@master
         with:
-          username: CamTheHelpDesk
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: CamTheHelpDesk
+          template: "TEMPLATE.md"
+
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          coauthor_email: CamTheHelpDesk@users.noreply.github.com
+          coauthor_name: CamTheHelpDesk
