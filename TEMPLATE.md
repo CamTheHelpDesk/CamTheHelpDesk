@@ -1,9 +1,8 @@
 # Hi there 👋
+My name is Camdan.
 
 ## My Stats:
-[![CamTheHelpDesk's github stats](https://github-readme-stats.vercel.app/api?username=CamTheHelpDesk&theme=dark&show_icons=true&include_all_commits=true)](https://camdan.me)
-
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamTheHelpDesk)](https://camdan.me)
+<p align="center"> [![CamTheHelpDesk's github stats](https://github-readme-stats.vercel.app/api?username=CamTheHelpDesk&theme=dark&show_icons=true&include_all_commits=true)](https://camdan.me) [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamTheHelpDesk)](https://camdan.me) </p>
 
 ### Recent Contributions
 ```
