@@ -38,7 +38,7 @@
 ## My Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamTheHelpDesk&langs_count=3" alt="CamTheHelpDesk's languages" />  <img src="https://github-readme-stats.vercel.app/api?username=CamTheHelpDesk&theme=light&show_icons=true&include_all_commits=true&count_private=true" alt="CamTheHelpDesk's github stats" /><br /><img src="https://metrics.lecoq.io/CamTheHelpDesk" alt="CamTheHelpDesk's github stats" /></p></p>
   
-### Recent Contributions
+## Recent Contributions
 ```
 ❗️ Opened issue #1261 in JonathanGin52/JonathanGin52
 ❗️ Opened issue #6851 in timburgan/timburgan
@@ -52,7 +52,7 @@
 🗣 Commented on #13 in xerexDev/AIMod
 ```
 
-### Recent Repos
+## Recent Repos
 ```
 ⭐️ 0 📦 CamTheHelpDesk/CamTheHelpDesk
 ⭐️ 0 📦 CamTheHelpDesk/camthehelpdesk.github.io
@@ -60,6 +60,9 @@
 ⭐️ 0 📦 CamTheHelpDesk/DiscordBotBestPractices
 ⭐️ 0 📦 CamTheHelpDesk/website
 ```
+
+## Welcome To The Internet!
+<img src='https://random-memer.herokuapp.com/' alt="Please refresh the page is the image doesn't show up.">
 
 ## About Me
 - 🔭 I’m currently working on [Xerex](https://github.com/XerexDiscordBot/Xerex). Xerex is a Discord automod bot powered by AI.
@@ -73,4 +76,4 @@
 ---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CamTheHelpDesk&&style=flat-square" /><br />
-Last refresh: <b>Sunday, October 18th 2020, 6:47:49 pm UTC</b>.</p>
+Last refresh: <b>Sunday, October 18th 2020, 6:50:39 pm UTC</b>.</p>
