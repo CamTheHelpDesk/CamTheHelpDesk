@@ -35,10 +35,11 @@
 </div></td></tr></table>
 
 ## My Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CamTheHelpDesk&theme=dark&show_icons=true&include_all_commits=true" alt="CamTheHelpDesk's github stats"></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamTheHelpDesk&langs_count=3" alt="CamTheHelpDesk's languages" />  <img src="https://github-readme-stats.vercel.app/api?username=CamTheHelpDesk&theme=light&show_icons=true&include_all_commits=true" alt="CamTheHelpDesk's github stats" /></p>
   
 ### Recent Contributions
 ```
+⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
@@ -53,7 +54,6 @@
 ⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
 ⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
@@ -82,4 +82,4 @@
 ---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CamTheHelpDesk&&style=flat-square" /><br />
-Last refresh: <b>Sunday, October 18th 2020, 6:38:41 pm UTC</b>.</p>
+Last refresh: <b>Sunday, October 18th 2020, 6:39:29 pm UTC</b>.</p>
