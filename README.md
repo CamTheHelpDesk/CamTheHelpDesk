@@ -61,8 +61,10 @@
 ⭐️ 0 📦 CamTheHelpDesk/website
 ```
 
-## Welcome To The Internet!
+## Something From The Internet
+<div align="center">
 <img src='https://random-memer.herokuapp.com/' alt="Please refresh the page is the image doesn't show up.">
+</div>
 
 ## About Me
 - 🔭 I’m currently working on [Xerex](https://github.com/XerexDiscordBot/Xerex). Xerex is a Discord automod bot powered by AI.
@@ -76,4 +78,4 @@
 ---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CamTheHelpDesk&&style=flat-square" /><br />
-Last refresh: <b>Sunday, October 18th 2020, 6:50:39 pm UTC</b>.</p>
+Last refresh: <b>Sunday, October 18th 2020, 6:51:34 pm UTC</b>.</p>
