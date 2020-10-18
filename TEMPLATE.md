@@ -2,7 +2,7 @@
 My name is Camdan.
 
 ## My Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CamTheHelpDesk&theme=dark&show_icons=true&include_all_commits=true" alt="CamTheHelpDesk's github stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamTheHelpDesk" alt="Top Langs"></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CamTheHelpDesk&theme=dark&show_icons=true&include_all_commits=true" alt="CamTheHelpDesk's github stats"></p>
   
 ### Recent Contributions
 ```
