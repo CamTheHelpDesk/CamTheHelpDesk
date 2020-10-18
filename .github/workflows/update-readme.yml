@@ -1,6 +1,9 @@
 name: Update Readme
 
 on:
+  push:
+    paths:
+    - 'TEMPLATE.md'
   schedule:
     - cron: 0 */12 * * *
 
