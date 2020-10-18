@@ -48,8 +48,10 @@
 <!--GITHUB_REPOS:{"rows": 10, "raw": true, "sort": "pushed"}-->
 ```
 
-## Welcome To The Internet!
+## Something From The Internet
+<div align="center">
 <img src='https://random-memer.herokuapp.com/' alt="Please refresh the page is the image doesn't show up.">
+</div>
 
 ## About Me
 - 🔭 I’m currently working on [Xerex](https://github.com/XerexDiscordBot/Xerex). Xerex is a Discord automod bot powered by AI.
