@@ -1,1 +1,85 @@
+<div align="center">
+<img src="https://cam.is-ne.at/CGgpeF.png" align="center" style="width: 100%" />
+</div>
+<br/>
+<h2>My Skill Set</h2>
+<table><tr><td valign="top" width="33%">
+<h3>Frontend</h3>
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+</div>
+</td><td valign="top" width="33%">
+<h3>Backend</h3>
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
+</div>
+</td><td valign="top" width="33%">
+<h3>DevOps</h3>
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
+</div></td></tr></table>
 
+## My Stats:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CamTheHelpDesk&theme=dark&show_icons=true&include_all_commits=true" alt="CamTheHelpDesk's github stats"></p>
+  
+### Recent Contributions
+```
+⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 3 commits to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 2 commits to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
+⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
+❗️ Opened issue #1261 in JonathanGin52/JonathanGin52
+❗️ Opened issue #6851 in timburgan/timburgan
+❗️ Opened issue #6850 in timburgan/timburgan
+⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
+```
+
+### Recent Repos
+```
+⭐️ 0 📦 CamTheHelpDesk/CamTheHelpDesk
+⭐️ 0 📦 CamTheHelpDesk/camthehelpdesk.github.io
+⭐️ 0 📦 CamTheHelpDesk/MultiMinimal
+⭐️ 0 📦 CamTheHelpDesk/DiscordBotBestPractices
+⭐️ 0 📦 CamTheHelpDesk/website
+```
+
+## About Me
+- 🔭 I’m currently working on [Xerex](https://github.com/XerexDiscordBot/Xerex). Xerex is a Discord automod bot powered by AI.
+- 🌱 I’m currently learning discord.js
+- 👯 I’m looking to collaborate on my [Xerex](https://github.com/XerexDiscordBot/Xerex) project. Feel free to open a PR or join our [Discord](https://discord.gg/3zzE4n7)!
+- 💬 Ask me anything. I'll answer if I feel like it.
+- 📫 How to reach me: You can email me at [camthehelpdesk@gmail.com](mailto:camthehelpdesk@gmail.com?subject=Hello!&body=Hi!%20I%20got%20your%20email%20from%20your%20GitHub%20repo.) or add me on Discord `CamTheHelpDesk#5701`!
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I like mountain biking! 🚵🚴
+
+---
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=CamTheHelpDesk&&style=flat-square" /><br />
+Last refresh: <b>Sunday, October 18th 2020, 6:21:04 pm UTC</b>.</p>
