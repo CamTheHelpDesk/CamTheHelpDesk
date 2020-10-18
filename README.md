@@ -40,26 +40,16 @@
   
 ### Recent Contributions
 ```
-⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 3 commits to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 2 commits to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 0 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
-⬆️ Pushed 1 commit to CamTheHelpDesk/CamTheHelpDesk
+❗️ Opened issue #1261 in JonathanGin52/JonathanGin52
+❗️ Opened issue #6851 in timburgan/timburgan
+❗️ Opened issue #6850 in timburgan/timburgan
+📦 Released "Release 1.1.1" in xerexDev/AIMod
+❗️ Closed issue #5 in xerexDev/AIMod
+❗️ Closed issue #6 in xerexDev/AIMod
+🗣 Commented on #2 in xerexDev/AIMod
+🗣 Commented on #3 in xerexDev/AIMod
+🗣 Commented on #4 in xerexDev/AIMod
+🗣 Commented on #13 in xerexDev/AIMod
 ```
 
 ### Recent Repos
@@ -83,4 +73,4 @@
 ---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CamTheHelpDesk&&style=flat-square" /><br />
-Last refresh: <b>Sunday, October 18th 2020, 6:45:18 pm UTC</b>.</p>
+Last refresh: <b>Sunday, October 18th 2020, 6:47:49 pm UTC</b>.</p>
