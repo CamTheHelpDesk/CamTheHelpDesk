@@ -40,7 +40,7 @@
   
 ### Recent Contributions
 ```
-<!--GITHUB_ACTIVITY:{"rows": 20, "raw": true}-->
+<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true, "exclude": ["PushEvent"]}-->
 ```
 
 ### Recent Repos
