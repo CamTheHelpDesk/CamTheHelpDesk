@@ -40,8 +40,7 @@
   
 ## Recent Contributions
 ```
-❌ Reopened PR #1 in XerexDiscordBot/XerexBots
-🗣 Commented on #1 in XerexDiscordBot/XerexBots
+🗣 Commented on #1 in eartharoid/DiscordTickets-Portal
 ```
 
 ## Recent Repos
@@ -73,4 +72,4 @@
 ---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CamTheHelpDesk&&style=flat-square" /><br />
-Last refresh: <b>Tuesday, January 5th 2021, 12:21:59 pm UTC</b>.</p>
+Last refresh: <b>Wednesday, January 6th 2021, 12:48:34 am UTC</b>.</p>
