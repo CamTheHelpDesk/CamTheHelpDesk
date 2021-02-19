@@ -49,9 +49,6 @@
 ⭐️ 1 📦 CamTheHelpDesk/MultiMinimal
 ⭐️ 1 📦 CamTheHelpDesk/DiscordBotBestPractices
 ⭐️ 1 📦 CamTheHelpDesk/camthehelpdesk.github.io
-⭐️ 1 📦 CamTheHelpDesk/website
-⭐️ 1 📦 CamTheHelpDesk/30-seconds-of-code
-⭐️ 1 📦 CamTheHelpDesk/AmA
 ⭐️ 2 📦 CamTheHelpDesk/LOLbot
 ```
 
@@ -72,4 +69,4 @@
 ---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CamTheHelpDesk&&style=flat-square" /><br />
-Last refresh: <b>Friday, February 19th 2021, 12:30:01 am UTC</b>.</p>
+Last refresh: <b>Friday, February 19th 2021, 12:16:36 pm UTC</b>.</p>
