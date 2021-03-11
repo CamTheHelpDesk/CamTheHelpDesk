@@ -46,7 +46,6 @@
 ## Recent Repos
 ```
 ⭐️ 1 📦 CamTheHelpDesk/CamTheHelpDesk
-⭐️ 1 📦 CamTheHelpDesk/MultiMinimal
 ⭐️ 1 📦 CamTheHelpDesk/DiscordBotBestPractices
 ⭐️ 1 📦 CamTheHelpDesk/camthehelpdesk.github.io
 ⭐️ 2 📦 CamTheHelpDesk/LOLbot
@@ -69,4 +68,4 @@
 ---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CamTheHelpDesk&&style=flat-square" /><br />
-Last refresh: <b>Wednesday, March 10th 2021, 12:17:06 pm UTC</b>.</p>
+Last refresh: <b>Thursday, March 11th 2021, 12:31:50 am UTC</b>.</p>
